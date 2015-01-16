@@ -1,4 +1,5 @@
 # Quantum Computing with Julia
+![alt tag](http://physicsforme.files.wordpress.com/2012/11/schrodonger_cat.jpg)
 #### Implementation of some simple classical and quantum systems
 
 The simulation are implementations of the Programming drills from the book Quantum Computing for Computer Scientists, 
